@@ -1,2 +1,2 @@
 # Python-Programs
-Author - Shahbaz Khan
+Author - Shahbaz Ahmed Khan
